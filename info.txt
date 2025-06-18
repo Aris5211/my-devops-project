@@ -1,1 +1,1 @@
-echo "DevOps is awesome!"
+DevOps is awesome!
